@@ -7,4 +7,13 @@ So far, I have mainly learnt about HTML and I think that this first version of t
 We have touched on CSS and JS but not deep enough to integrate either of these languages into this project. 
 
 I am still having some trouble pushing all commits to Github. I will review the workflow again but for now I should focus on using 'git add filename*' instead of 'git add .' for file staging.
-'git add filename*'
+
+<u>Reflections</u>
+
+Iteration 3 had some text formatting and different lists which reminded me to study and refer to the following resources in future projects:
+
+    https://learn.shayhowe.com/html-css/creating-lists/
+    https://medium.com/@zac_heisey/when-to-use-strong-b-em-and-i-tags-in-your-markup-fa4d0af8affb
+    https://www.w3schools.com/tags/
+    https://www.javatpoint.com/html-tags
+
